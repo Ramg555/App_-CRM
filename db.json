@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Antonio",
+      "empresa": "TrueHero ",
+      "email": "correo@correo.com",
+      "telefono": "232323",
+      "notas": "Notas",
+      "id": 2
+    },
+    {
+      "nombre": "Negro",
+      "empresa": "Negro Company",
+      "email": "correo@correo.com",
+      "telefono": "52454534",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Blanco",
+      "empresa": "Blanco company",
+      "email": "correo@correo.com",
+      "telefono": "3434342",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Ricardo Macias",
+      "empresa": "Empresa",
+      "email": "ricardomacias392@gmail.com",
+      "telefono": "6351069800",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
